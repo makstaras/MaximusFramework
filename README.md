@@ -1,6 +1,6 @@
 # MaximusFramework by Taras Maksymiv
 
-Build v0.1 (Initial) includes the following features:
+Build v1.0 (Initial) includes the following features:
 1. Ability to run on Chrome, Firefox and IE browsers
 2. Headless browser option
 3. Ability to run on mobile devices
